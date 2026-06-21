@@ -42,11 +42,6 @@ Every file starts with a short header comment:
  */
 ```
 
-## ✅ Progress Log
-
-| Date | Topic | Folder | Notes |
-|------|-------|--------|-------|
-| 2026-06-21 | Reverse a String | basics | Using StringBuilder |
 
 *(Add a new row each day you push a snippet — this table doubles as a changelog and motivation tracker.)*
 
